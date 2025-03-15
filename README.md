@@ -7,3 +7,6 @@ Comando para gerar imagem docker:
 ```
 docker compose build
 ```
+Versão para uso gratuita:
+
+https://github.com/launcherbr/whaticketsaasfree
