@@ -4,6 +4,6 @@ Sobrescreva os arquivos desse repositório aos arquivos do codigo fonte do Whati
 
 Comando para gerar imagem docker:
 
-bash'''
+```
 docker compose build
-'''
+```
